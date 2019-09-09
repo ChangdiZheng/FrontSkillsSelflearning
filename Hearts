@@ -42,21 +42,7 @@
             transform: rotate(45deg);
             box-shadow: 9px 2px 10px #494747
         }
-
-        @keyframes tiaodong {
-            0% {
-                transform: scale(1);
-            }
-
-            50% {
-                transform: scale(1.05);
-            }
-
-            100% {
-                transform: scale(1);
-            }
-        }
-    </style>
+</style>
 </head>
 
 <body>
