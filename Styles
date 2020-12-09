@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>莫兰迪色系表--高级灰</title>
+</head>
+<style>
+    .row {
+        line-height: 5rem;
+    }
+
+    .block {
+        display: inline-block;
+        width: 5rem;
+        height: 5rem;
+        margin: 0.3rem;
+    }
+</style>
+
+<body>
+    <div class="row">
+        <span class="block" style="background-color: #c1cbd7;">#c1cbd7</span>
+        <span class="block" style="background-color: #afb0b2;">#afb0b2</span>
+        <span class="block" style="background-color: #939391;">#939391</span>
+        <span class="block" style="background-color: #bfbfbf;">#bfbfbf</span>
+        <span class="block" style="background-color: #e0e5df;">#e0e5df</span>
+        <span class="block" style="background-color: #b5c4b1;">#b5c4b1</span>
+    </div>
+    <div class="row">
+        <span class="block" style="background-color: #8696a7;">#8696a7</span>
+        <span class="block" style="background-color: #9ca8b8;">#9ca8b8</span>
+        <span class="block" style="background-color: #ececea;">#ececea</span>
+        <span class="block" style="background-color: #fffaf4;">#fffaf4</span>
+        <span class="block" style="background-color: #96a48b;">#96a48b</span>
+        <span class="block" style="background-color: #7b8b6f;"> #7b8b6f</span>
+    </div>
+    <div class="row">
+        <span class="block" style="background-color: #dfd7d7;"> #dfd7d7</span>
+        <span class="block" style="background-color: #656565;"> #656565</span>
+        <span class="block" style="background-color: #d8caaf;">#d8caaf</span>
+        <span class="block" style="background-color: #c5b8a5;">#c5b8a5</span>
+        <span class="block" style="background-color: #fdf9ee;">#fdf9ee</span>
+        <span class="block" style="background-color: #f0ebe5;"> #f0ebe5</span>
+    </div>
+    <div class="row">
+        <span class="block" style='background-color: rgb(16,109,156);'>浅蓝色</span>
+        <span class="block" style='background-color: rgb(90,146,173);'>哑光蓝色</span>
+        <span class="block" style='background-color: rgb(0,162,222);'>亮蓝</span>
+        <span class="block" style='background-color: rgb(8,186,255);'>蓝色</span>
+        <span class="block" style='background-color: rgb(255,97,0);'>亮橙</span>
+        <span class="block" style='background-color: rgb(61,89,171);'>钴色</span>
+        <span class="block" style='background-color: rgb(128,42,42);'>朱红</span>
+    </div>
+    <div style="width: 615px; height: 1400px; background-image: linear-gradient(transparent, transparent 2px, rgb(255, 255, 255) 2px, rgb(255, 255, 255) 20px), linear-gradient(to right, rgb(200, 195, 199), rgb(200, 195, 199) 2px, rgb(255, 255, 255) 2px, rgb(255, 255, 255) 20px); background-position: 429.5px -2px; background-size: 20px 20px;">
+
+    </div>
+</body>
+
+</html>
